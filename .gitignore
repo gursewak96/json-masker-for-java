@@ -1,0 +1,15 @@
+*.class
+
+# Package Files #
+*.jar
+target/
+
+# idea
+.idea/
+*.iml
+
+#log
+*.log
+
+#file with bintray credentials
+deploy.key
